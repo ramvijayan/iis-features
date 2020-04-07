@@ -1,0 +1,7 @@
+[windows]
+13.68.152.150
+[windows:vars]
+ansible_user=usernode
+ansible_connection=winrm
+ansible_password=Azurevm#1234
+ansible_winrm_server_cert_validation=ignore

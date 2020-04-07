@@ -1,0 +1,12 @@
+---
+# defaults file for iis-featuresad_username
+ad_firstname: priyanka
+ad_surname: kolli
+passwd_user: Test@12345
+user_required: present
+domain_admin_password: Azurevm#1234
+domain_server_fqdn: node1.chennaidryice.com
+group_to_add: Administrators
+ad_username: pinky
+domain_admin_name: chennaidryice\usernode
+domain_user_name: chennaidryice\pinky
